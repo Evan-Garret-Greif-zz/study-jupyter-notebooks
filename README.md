@@ -1,2 +1,1 @@
-# jupyter-workbooks
-## Study-related jupyter workbooks
+# study-related jupyter-workbooks
